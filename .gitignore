@@ -1,22 +1,17 @@
 # Node
 npm-debug.log
-
 # Mac
 .DS_Store
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
-
 # WebStorm
 .idea/
-
 # vi
 *~
-
 # Log file
 *.log
 log/
 *.log
-
 # VSCode
 .vscode
